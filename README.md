@@ -11,13 +11,17 @@
 • The “Time of Stop” has been discretized, because for the information I’m trying to get out of it, having something like Afternoon and Midnight etc. is better than the time down to the seconds. For example: Morning is from 6:00 to 12:00. Afternoon is from 12:01 to around 17:00. etc.
 
 ## Machine Learning (Trial and error)-
-• I used One-Hot Encoding algorithm on the non-categorical parts then I used K clustering which did not go well for my data.
-• I then used logistic regression on the binary and catagorical parts of the data which yeilded good results, however when I used linear regression on the non-categorical datait the results were not the best. 
+• I used One-Hot Encoding algorithm on the non-categorical parts then I used K clustering which did not go well for my data. <br>
+
+• I then used logistic regression on the binary and catagorical parts of the data which yeilded good results, however when I used linear regression on the non-categorical datait the results were not the best. <br>
 
 ## Takeaways-
-• While cleaning data is not supposed to easy, for this project specifically it was time consuming.
-• Using one hot encoding can give out the wrong data if used incorrectly
-• When wanting to predict data from a dataset, having a categorical only dataset makes it a lot harder than for example an all numerical dataset, or even a categorical and numerical dataset.
+• While cleaning data is not supposed to easy, for this project specifically it was time consuming.<br>
+
+• Using one hot encoding can give out the wrong data if used incorrectly<br>
+
+• When wanting to predict data from a dataset, having a categorical only dataset makes it a lot harder than for example an all numerical dataset, or even a categorical and numerical dataset.<br>
+
 • The best choice for predicting categorical data is logistical regression.
 
 ## Interesting Analysis takeaways - 
