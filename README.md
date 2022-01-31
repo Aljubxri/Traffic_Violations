@@ -15,10 +15,10 @@
 • I then used logistic regression on the binary and catagorical parts of the data which yeilded good results, however when I used linear regression on the non-categorical datait the results were not the best. 
 
 ## Takeaways-
-While cleaning data is not supposed to easy, for this project specifically it was time consuming.
-Using one hot encoding can give out the wrong data if used incorrectly
-When wanting to predict data from a dataset, having a categorical only dataset makes it a lot harder than for example an all numerical dataset, or even a categorical and numerical dataset.
-the best choice for predicting categorical data is logistical regression.
+• While cleaning data is not supposed to easy, for this project specifically it was time consuming.
+• Using one hot encoding can give out the wrong data if used incorrectly
+• When wanting to predict data from a dataset, having a categorical only dataset makes it a lot harder than for example an all numerical dataset, or even a categorical and numerical dataset.
+• The best choice for predicting categorical data is logistical regression.
 
 ## Interesting Analysis takeaways - 
 ![image](https://user-images.githubusercontent.com/64828238/151828350-b7a55b89-ef34-4955-82d2-b861a9607052.png)
